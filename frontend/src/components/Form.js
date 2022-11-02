@@ -109,8 +109,8 @@ const Form = ({ getUsers, onEdit, setOnEdit }) => {
         <Input name="email" type="email" />
       </InputArea>
       <InputArea>
-        <Label>Telefone</Label>
-        <Input name="telefone" />
+        <Label>Fone</Label>
+        <Input name="fone" />
       </InputArea>
       <InputArea>
         <Label>Data de Nascimento</Label>
