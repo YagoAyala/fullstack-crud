@@ -2,9 +2,9 @@
   FullStack Project<br/>
 </h2>
 
-## About The Project
+## Projeto Final:
 
-<img src="images/projeto-fullstack.jpg" alt="imagem" width="80" height="80">
+<img src="images/projeto-fullstack.jpg" alt="imagem">
 
 ## Feito com
 
