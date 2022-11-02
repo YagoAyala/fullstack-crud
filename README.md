@@ -32,4 +32,4 @@ Esse projeto foi construido com essas tecnologias:
 
 6. Para visualizar o projeto: `npm start`
 
-Abra [http://localhost:3000](http://localhost:3000) para ver pelo navegador.
+Abra [http://localhost:3000](http://localhost:3000) para ver pelo navegador
