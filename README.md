@@ -2,6 +2,10 @@
   FullStack Project<br/>
 </h2>
 
+## About The Project
+
+<img src="images/projeto-fullstack.png" alt="imagem" width="80" height="80">
+
 ## Feito com
 
 Esse projeto foi construido com essas tecnologias:
