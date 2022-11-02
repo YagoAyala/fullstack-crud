@@ -4,7 +4,7 @@
 
 ## About The Project
 
-<img src="images/projeto-fullstack.png" alt="imagem" width="80" height="80">
+<img src="images/projeto-fullstack.jpg" alt="imagem" width="80" height="80">
 
 ## Feito com
 
