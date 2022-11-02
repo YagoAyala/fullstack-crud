@@ -110,7 +110,7 @@ const Form = ({ getUsers, onEdit, setOnEdit }) => {
       </InputArea>
       <InputArea>
         <Label>Telefone</Label>
-        <Input name="fone" />
+        <Input name="telefone" />
       </InputArea>
       <InputArea>
         <Label>Data de Nascimento</Label>
