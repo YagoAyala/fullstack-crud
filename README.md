@@ -32,4 +32,6 @@ Esse projeto foi construido com essas tecnologias:
 
 6. Para visualizar o projeto: `npm start`
 
+obs: Tem que configurar o arquivo db.js de acordo com o seu banco de dados para o projeto funcionar.
+
 Abra [http://localhost:3000](http://localhost:3000) para ver pelo navegador
